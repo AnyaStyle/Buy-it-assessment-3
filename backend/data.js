@@ -18,7 +18,7 @@ const data = {
       category: 'Toys for boys',
       image: '/images/cars.jpg',
       price: 19,
-      countInStock: 20,
+      countInStock: 0,
       brand: 'Happy Child',
       rating: 4.0,
       numReviews: 10,

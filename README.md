@@ -6,12 +6,12 @@
 2. Install Tools
 3. Create React App
 4. Create Git Repository
-5. List products
+5. List Products
    1. create products array
    2. add product images
    3. render products
    4. style products
-6. Add routing
+6. Add page routing
    1. npm i react-router-dom
    2. create route for home screen
    3. create router for product screen
@@ -39,9 +39,12 @@
    2. update fetch data
    3. get state from usReducer
 10. Add bootstrap UI Framework
-11. npm install react-bootstrap bootstrap
-12. update App.js
-13. Create Product and Rating Component
-14. create Rating component
-15. Create Product component
-16. Use Rating component in Product component
+    1. npm install react-bootstrap bootstrap
+    2. update App.js
+11. Create Product and Rating Component
+    1. create Rating component
+    2. create Product component
+    3. use Rating component in Product component
+12. Create Product Details Screen
+    1. fetch product from backend
+    2. create 3 columns for image, info and action
