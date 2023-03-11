@@ -1,7 +1,7 @@
 const data = {
   products: [
     {
-      _id: '1',
+      // _id: '1',
       name: 'Animal toys',
       slug: 'animal-toys',
       category: 'Toys for girls',
@@ -14,7 +14,7 @@ const data = {
       description: 'high quality animal toys',
     },
     {
-      _id: '2',
+      // _id: '2',
       name: 'Cars',
       slug: 'cars',
       category: 'Toys for boys',
@@ -27,7 +27,7 @@ const data = {
       description: 'high quality cars',
     },
     {
-      _id: '3',
+      // _id: '3',
       name: 'Lego',
       slug: 'lego',
       category: 'Toys for boys',
@@ -40,7 +40,7 @@ const data = {
       description: 'high quality lego',
     },
     {
-      _id: '4',
+      // _id: '4',
       name: 'Soft toys',
       slug: 'soft-toys',
       category: 'Toys for girls',
